@@ -88,9 +88,5 @@ public abstract class Testing extends LinearOpMode {
 //        if(gamepad1.dpad_down) {
 //            STest2.setPosition(0.5);
 //        }
-
-
-
-
-    }
+//    }
 }
