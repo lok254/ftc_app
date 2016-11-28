@@ -43,7 +43,7 @@ import java.util.Date;
  * Demonstrates empty OpMode
  */
 @Autonomous(name = "Concept: NullOp", group = "Concept")
-@Disabled
+//@Disabled
 public class ConceptNullOp extends OpMode {
 
   private ElapsedTime runtime = new ElapsedTime();
